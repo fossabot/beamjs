@@ -1,6 +1,6 @@
 {
   "name": "beamjs-node",
-  "version": "1.0.1-ALPHA",
+  "version": "1.0.1-BETA",
   "description": "",
   "main": "./src/beam.js",
   "scripts": {
