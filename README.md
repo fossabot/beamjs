@@ -1,7 +1,7 @@
 <div align="center">
   <br />
   <p>
-    <a href="https://beam.video"><img src="https://i.imgur.com/1JTPvM8.png" width="346" alt="beamjs" /></a>
+    <a href="https://beam.video"><img src="https://i.imgur.com/1JTPvM8.png" width="146" alt="beamjs" /></a>
   </p>
   <br />
   <p>
