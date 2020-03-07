@@ -1,0 +1,11 @@
+#MAIN
+node_modules/
+
+#MISC
+.vscode/
+
+#OTHER
+.eslintrc.json
+.gitattributes
+.gitignore
+.github/
