@@ -1,5 +1,7 @@
 'use strict';
-
+var { getUser } = require(`${__dirname}/functions/main.js`);
 module.exports = {
-    test: "one"
-}
+    getUserInfo: (user) => {
+        return user;
+    }
+};
