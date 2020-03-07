@@ -1,5 +1,5 @@
 {
-  "name": "beamjs",
+  "name": "beamjs-node",
   "version": "1.0.0",
   "description": "",
   "main": "./src/beam.js",
