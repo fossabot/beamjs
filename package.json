@@ -12,7 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/beamvideo/beamjs.git"
   },
-  "author": "Callum OKane",
+  "author": "Callum <callumokane123@gmail.com>",
   "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/beamvideo/beamjs/issues"
