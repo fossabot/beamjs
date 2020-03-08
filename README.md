@@ -17,9 +17,18 @@
 </div>
 
 ## Contents
+- [About](#about)
 - [Installation](#installation)
 - [Example Usage](#example-usage)
 
+## About
+
+### What is Beam?
+Beam is a music-sharing, premium chat platform where you can socialise with your friends, talk on chat or voice,
+browse the internet with people all across the world.
+
+### Why have we created **beam.js**?
+beam.js is a nodejs package we created for the intention of developers to create bot's on our platform!
 
 ## Installation
 
