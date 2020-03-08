@@ -8,6 +8,8 @@
     <a href="https://www.npmjs.com/package/beamjs-node"><img src="https://img.shields.io/npm/v/beamjs-node.svg?maxAge=3600" alt="NPM version" /></a>
     <a href="https://www.npmjs.com/package/beamjs-node"><img src="https://img.shields.io/npm/dt/beamjs-node.svg?maxAge=3600" alt="NPM downloads" /></a>
     <a href="https://david-dm.org/beamvideo/beamjs"><img src="https://img.shields.io/david/beamvideo/beamjs.svg?maxAge=3600" alt="Dependencies" /></a>
+    <a href='https://coveralls.io/github/beamvideo/beamjs?branch=master'><img src='https://coveralls.io/repos/github/beamvideo/beamjs/badge.svg?branch=master' alt='Coverage Status' /></a>
+    <a href=""><img src="http://inch-ci.org/github/beamvideo/beamjs.svg?branch=master" alt="Docs Status"></a>
   </p>
   <p>
     <a href="https://nodei.co/npm/beamjs-node/"><img src="https://nodei.co/npm/beamjs-node.png?downloads=true&stars=true" alt="npm installnfo" /></a>
