@@ -12,8 +12,8 @@
     "type": "git",
     "url": "git+https://github.com/beamvideo/beamjs.git"
   },
-  "author": "beamvideo",
-  "license": "ISC",
+  "author": "Callum OKane",
+  "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/beamvideo/beamjs/issues"
   },
@@ -26,5 +26,16 @@
     "eslint-plugin-prettier": "^3.1.2",
     "node-fetch": "^2.6.0",
     "ws": "^7.2.1"
-  }
+  },
+  "keywords": [
+    "beamjs",
+    "beamvideo", 
+    "beam",
+    "node",
+    "nodejs",
+    "javascript", 
+    "api",
+    "framework",
+    "bot"
+  ]
 }
