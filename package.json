@@ -1,7 +1,7 @@
 {
   "name": "beamjs-node",
   "version": "1.0.1-BETA",
-  "description": "",
+  "description": "Beam is a music-sharing, premium chat platform where you can socialise with your friends, talk on chat or voice, browse the internet with people all across the world.",
   "main": "./src/beam.js",
   "scripts": {
     "test": "eslint src --fix",
