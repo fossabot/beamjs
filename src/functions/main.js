@@ -1,19 +1,25 @@
+let updateClient;
 module.exports = {
-    // Functions 
-    login: (token) => {
+    login: token => {
+        updateClient = setInterval(clientUpdate, 1000);
     },
-    logout : () => {
-                global.BEAM_SVG_CLIENT = null;
+    logout: () => {
+                process.env.BEAM_DATA_CLIENT = null;
+                clearInterval(updateClient);
     },
     users: {
-            get: (userID) => {
+            get: userID => {
 
             },
     communities: {
-            get: (communityID) => {
+            get: communityID => {
 
-            }
-        }
-    }
-}
+            },
+        },
+    },
+};
+
+function clientUpdate() {
+
+};
 
