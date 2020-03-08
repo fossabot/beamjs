@@ -1,6 +1,6 @@
 #MAIN
 node_modules/
-package-lock.json
+.env
 
 #OTHER
 .vscode/
